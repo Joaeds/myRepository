@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Hallo Welt!");
         System.out.println("That means 'Hello world!' in German.");
+	System.out.println("Not too creative, no.");
     }
 }
