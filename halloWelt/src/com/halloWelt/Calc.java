@@ -17,4 +17,8 @@ public class Calc {
     public int times(int a, int b){
         return a*b;
     }
+
+    public int div(int a, int b){
+        return a/b;
+    }
 }
