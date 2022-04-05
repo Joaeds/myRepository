@@ -33,6 +33,11 @@ class CalcTest {
     }
 
     @Test
+    void minusTest1(){
+        assertEquals(7, calc.minus(9, 2));
+    }
+
+    @Test
     void randomArrayTest(){
         String str = "hej hej hej";
         String actual [] = str.split(" ");
